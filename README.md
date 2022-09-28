@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋 there! My name is Denis.</h2>
+<h2 align="center">Hi 👋 there! My name is Denis and I'm a Front-End Developer.</h2>
 
 ###
 
