@@ -1,13 +1,16 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=13F73A&width=900&height=100&lines=Hi+there+%F0%9F%91%8B+!++My+name+is+Denis+and+I'm+a+Front-End+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61FEC9&width=900&height=100&lines=Hi+there+%F0%9F%91%8B+!++My+name+is+Denis+and+I'm+a+Front-End+Developer.)](https://git.io/typing-svg)
 
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&username=Zouker" height="150" alt="stats graph"  />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zouker&theme=dark&border=E4E2E2&fire=FEC984&currStreakNum=61FEC9&sideNums=61FEC9&dates=FEC984&stroke=A176FE&currStreakLabel=A176FE&sideLabels=A176FE&ring=A176FE)](https://git.io/streak-stats)
+
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&username=Zouker" height="150" alt="stats graph"  />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=aura&hide_border=false&username=Zouker" height="150" alt="languages graph"  />
 </div>
 
