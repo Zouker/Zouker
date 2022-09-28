@@ -59,7 +59,18 @@
 <br clear="both">
 
 <div align="center">
-<img src="https://www.codewars.com/users/Zouker/badges/large" alt="CodeWars">
+  <img src="https://www.codewars.com/users/Zouker/badges/large" alt="CodeWars">
 </div>
 
 ###
+
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github.com/Zouker/Zouker/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</div>
+
+###
+
+
