@@ -1,10 +1,10 @@
-<br clear="both">
+<div align="center">
 
-<h2 align="center">Hi 👋 there! My name is Denis and I'm a Front-End Developer.</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=13F73A&width=900&height=100&lines=Hi+there+%F0%9F%91%8B+!++My+name+is+Denis+and+I'm+a+Front-End+Developer.)](https://git.io/typing-svg)
+
+</div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&username=Zouker" height="150" alt="stats graph"  />
