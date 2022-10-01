@@ -1,25 +1,21 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:61fdc8,100:a076fd&height=190&section=header&text=Denis%20Shubin&desc=Frontend%20Developer&animation=scaleIn&fontSize=70&fontAlign=73&fontAlignY=40&descSize=20&descAlignY=15&descAlign=59&fontColor=fdc883)
-
+  ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:61fdc8,100:a076fd&height=190&section=header&text=Denis%20Shubin&desc=Frontend%20Developer&animation=scaleIn&fontSize=70&fontAlign=73&fontAlignY=40&descSize=20&descAlignY=15&descAlign=59&fontColor=fdc883)
+  
 </div>
-
-###
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zouker&theme=dark&border=E4E2E2&fire=FEC984&currStreakNum=61FEC9&sideNums=61FEC9&dates=FEC984&stroke=A176FE&currStreakLabel=A176FE&sideLabels=A176FE&ring=A176FE)](https://git.io/streak-stats)
-
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zouker&theme=dark&border=E4E2E2&fire=FEC984&currStreakNum=61FEC9&sideNums=61FEC9&dates=FEC984&stroke=A176FE&currStreakLabel=A176FE&sideLabels=A176FE&ring=A176FE)](https://git.io/streak-stats)
+  
 </div>
-
-###
 
 <br clear="both">
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&username=Zouker" height="150" alt="stats graph"  />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=aura&hide_border=false&username=Zouker" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&username=Zouker" height="175" alt="stats graph"  />  
+   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=aura&hide_border=false&username=Zouker" height="175" alt="languages graph"  />
 </div>
 
 ###
@@ -75,7 +71,6 @@
 
 ###
 
-
 <br clear="both">
 
 <div align="center">
@@ -86,9 +81,6 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:61fdc8,100:a076fd&height=100&section=footer)
-
-
+  ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:a076fd,100:61fdc8&height=100&section=footer)
+  
 </div>
-
-
