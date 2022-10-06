@@ -18,6 +18,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=aura&hide_border=false&username=Zouker" height="175" alt="languages graph"  />
 </div>
 
+<div align="center">
+
+![Zouker's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Zouker&hide_border=true&bg_color=15141b&color=61fdc8&title_color=a076fd&line=fdc883&point=e4e2e2&)
+
+</div>
+
+
 ###
 
 <br clear="both">
